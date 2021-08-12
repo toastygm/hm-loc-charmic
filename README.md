@@ -1,5 +1,7 @@
 # HârnWorld Location Module: Charmic Manor
 
+![Charmic Village](assets/images/charmic-village.webp)
+
 Charmic Manor is a "Location Module" for the Foundry VTT system. This location module
 is designed to depict the Charmic Manor in the far north of the Kingdom of Kaldor, on
 the island of Hârn in the [HârnWorld](https://columbiagames.com/harnworld/) fantasy
@@ -33,3 +35,4 @@ a derivative work of copyrighted material by Columbia Games Inc. and N. Robin Cr
 
 Some assets used to create the maps in this module are from
 [Forgotton Adventures](https://www.forgotten-adventures.net/).
+Illustrations by Richard Luschek; visit his Patreon page at https://www.patreon.com/LuschekII.
