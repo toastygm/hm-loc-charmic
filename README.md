@@ -15,6 +15,26 @@ This manor is held directly by the Earl of Neph and managed by a bailiff. It is 
 relatively new manor with huge potential, and grew very prosperous under its
 original bailiff. But in recent years, it has become a dark and dangerous place. 
 
+# Maps
+
+The original maps from this work have been used as inspiration, and new maps have been
+designed specifically to meet the requirements of the VTT environment.  The following
+maps are part of this module.
+
+## Charmic Village
+
+Map of Charmic Village, including the manor.
+
+<img src="assets/scenes/village-map.webp" alt="Charmic Village" width="600"/>
+
+## Timberwright's Yard
+
+<img src="assets/scenes/timberwrights-yard.webp" alt="Timberwright's Yard" width="600"/>
+
+## Charmic Manor
+
+<img src="assets/scenes/charmic-manor.webp" alt="Charmic Manor" width="600"/>
+
 # Credits
 
 This module is made possible by the hard work of HârnWorld fans,
