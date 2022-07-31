@@ -1,46 +1,54 @@
 {
-  "name": "hm-loc-charmic",
+  "id": "hm-loc-charmic",
   "title": "Charmic Manor",
   "description": "A moderate-sized fief in Northern Kaldor of Hârn",
-  "version": "1.1.0",
-  "minimumCoreVersion": "0.8.6",
-  "compatibleCoreVersion": "0.8.9",
+  "version": "1.2.0",
   "bugs": "https://github.com/toastygm/hm-loc-charmic/issues",
   "license": "LICENSE",
   "readme": "README.md",
   "authors": [
     {
       "name": "Toasty",
-      "discord": "toasty#8538"
+      "discord": "toasty#8538",
+      "flags": {}
     }
   ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
   "scripts": [
-    "./scripts/init.js"
+    "scripts/init.js"
   ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "scene-packer",
+        "type": "module",
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+        "compatibility": {}
+      }
+    ]
+  },
   "packs": [
     {
-      "entity": "Scene",
-      "label": "Charmic Manor - Scenes",
+      "label": "Charmic Manor Scenes",
       "name": "scenes",
-      "path": "packs/scenes.db"
+      "path": "packs/scenes.db",
+      "type": "Scene",
+      "flags": {}
     },
     {
-      "entity": "JournalEntry",
-      "label": "Charmic Manor - Journals",
+      "label": "Charmic Manor Journals",
       "name": "journals",
-      "path": "packs/journals.db"
-    }
-  ],
-  "dependencies": [
-    {
-      "name": "scene-packer",
-      "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-      "type": "module"
+      "path": "packs/journals.db",
+      "type": "JournalEntry",
+      "flags": {}
     }
   ],
   "url": "https://github.com/toastygm/hm-loc-charmic/",
   "manifest": "https://github.com/toastygm/hm-loc-charmic/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-charmic/releases/latest/download/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-charmic/releases/v1.2.0/download/module.zip",
   "flags": {
     "allowBugReporter": true
   }
