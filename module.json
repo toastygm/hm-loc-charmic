@@ -27,8 +27,7 @@
       {
         "id": "scene-packer",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-        "compatibility": {}
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
       }
     ]
   },
@@ -37,15 +36,13 @@
       "label": "Charmic Manor Scenes",
       "name": "scenes",
       "path": "packs/scenes.db",
-      "type": "Scene",
-      "flags": {}
+      "type": "Scene"
     },
     {
       "label": "Charmic Manor Journals",
       "name": "journals",
       "path": "packs/journals.db",
-      "type": "JournalEntry",
-      "flags": {}
+      "type": "JournalEntry"
     }
   ],
   "url": "https://github.com/toastygm/hm-loc-charmic/",
