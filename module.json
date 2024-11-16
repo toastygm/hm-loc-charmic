@@ -1,9 +1,8 @@
 {
   "id": "hm-loc-charmic",
-  "name": "hm-loc-charmic",
   "title": "Charmic Manor",
   "description": "A moderate-sized fief in Northern Kaldor of Hârn",
-  "version": "1.2.3",
+  "version": "1.3.0",
   "bugs": "https://github.com/toastygm/hm-loc-charmic/issues",
   "license": "LICENSE",
   "readme": "README.md",
@@ -14,10 +13,9 @@
       "flags": {}
     }
   ],
-  "minimumCoreVersion": "10",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10"
+    "minimum": "11",
+    "verified": "12.331"
   },
   "scripts": [
     "scripts/init.js"
@@ -27,7 +25,8 @@
       {
         "id": "scene-packer",
         "type": "module",
-        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json"
+        "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
+        "compatibility": {}
       }
     ]
   },
@@ -35,19 +34,29 @@
     {
       "label": "Charmic Manor Scenes",
       "name": "scenes",
-      "path": "packs/scenes.db",
-      "type": "Scene"
+      "path": "packs/scenes",
+      "type": "Scene",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
       "label": "Charmic Manor Journals",
       "name": "journals",
-      "path": "packs/journals.db",
-      "type": "JournalEntry"
+      "path": "packs/journals",
+      "type": "JournalEntry",
+      "flags": {},
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "url": "https://github.com/toastygm/hm-loc-charmic/",
   "manifest": "https://github.com/toastygm/hm-loc-charmic/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-charmic/releases/download/v1.2.3/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-charmic/releases/download/v1.3.0/module.zip",
   "flags": {
     "allowBugReporter": true
   }
