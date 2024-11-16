@@ -1,0 +1,1558 @@
+{
+  "name": "Village",
+  "pages": [
+    {
+      "name": "Charmic Village Image",
+      "src": "modules/hm-loc-charmic/assets/images/charmic-village.webp",
+      "type": "image",
+      "image": {
+        "caption": "Charmic Village"
+      },
+      "_id": "cEOoslH7z7OeDKiN",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.cEOoslH7z7OeDKiN"
+    },
+    {
+      "name": "Charmic Village",
+      "src": "modules/hm-loc-charmic/assets/images/charmic-village.webp",
+      "type": "text",
+      "image": {
+        "caption": "Charmic Village"
+      },
+      "_id": "WOqVuEoqEyEBJm9q",
+      "text": {
+        "content": "<p><img style=\"width:100%\" src=\"modules/hm-loc-charmic/assets/images/charmic-village.webp\" /></p>\n<p>Charmic village is a fair sized community. It has fortyone households consisting of 34 unfree serfs (13 villeins, 9 half-villeins, and 12 cottars), one free farmer, three guildsmen, two yeomen and one priest of Peoni.</p>\n<p>The village grew up along the main road. The Peonian church was built later and now the village is expanding along the road to the mill. The square is the centre of the village and the two of the guildsmen have their homes opening onto it. The mill is a rare Kaldoric example of a wind powered mill. Wind power was chosen due to the unpredictable volume of water in the stream and the steady breeze that always flows down the valley. The manor house is built along the banks of the stream and a moat, now rather silted, encircles it.</p>\n<p>The community consists of six main clans and a number of individual families. Lord Akitt used the clan ties to great effect, meting out punishments against the whole clan to force them to keep their own members in line. Few will runaway or rebel when their aunt or grandmother will be killed in retribution. Those without clan ties were even more vulnerable as they had no one to turn to for assistance or support. Most ended up becoming yes-men and lackeys for Lord Akitt out of shear survival. The three craftsmen (miller, metalsmith and woodcrafter) would normally have been safe from the worst excesses of the lord of the manor, but Akitt was ruthless to the point of demanding hostages every time they left the manor. He also sent one of his lackeys along with them to report their every move. Lord Akitt and his men kept a tight rein on everything that happened in the village, including killing one boy and taking the arm of his father for standing up to them.</p>\n<h2>Economics and Agrarian Life</h2>\n<p>Northern Kaldor has been settled since the days of the Kingdom of Serelind. However, this manor is relatively new and is still being developed. Charmic has 2060 gross acres, 432 wooded, leaving 1628 cleared acres. Of this, 799 acres support tenants and 829 acres are demesne. Prior to the arrival of Lord Akitt, this was an very productive fief, as it sits on rich alluvial topsoil.</p>\n<p>The manor is extremely rundown. The peasants have been taxed and worked to the very limit. The manor buildings require a long list of repairs. The fief itself requires a lot of work. The roads are badly rutted and barely passable. The recent lack of maintenance and general neglect has greatly reduced its productivity. Under the rule of Clan Morfan, the manor had a fief index of 1.10. Under Lord Akitt, that value fell to 0.85, a sign of serious neglect.</p>\n<p>The manor demesne used to support a large herd of cattle and sheep, but Lord Akitt sold them off as being too labour intensive. The cattle herd has dwindled to just twelve cows and one, rather old, bull. The sheep herd is also down, though the price of wool convinced Akitt to keep forty sheep and five rams. Starvation and high taxes have thinned the numbers of villager’s animals almost to nothing. A few pigs and one or two jealously protected goats are all that remain. The people of the village are generally thin and malnourished, with a few notable exceptions, mostly Akitt’s lackeys. The villagers are downtrodden and will not meet the eye of a noble or anyone else in authority.</p>\n<p>A side effect of the starvation is fewer children or old people. Most of them died off during a series of hard winters with little or no food and the bad harvest in the fall of 719TR. The villagers hope that a new lord will find some way to get them through the winter, but it has been long since they had any hope. A new lord will have to work hard to earn their trust.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.WOqVuEoqEyEBJm9q"
+    },
+    {
+      "name": "[1] Cottar (Girn of Clan Valada)",
+      "type": "text",
+      "text": {
+        "content": "<p>Girn is married. With only two acres, there is no way he can feed his wife and himself. In desperation, he has reluctantly become one of Akitt’s enforcers. Even selling himself, they have barely enough to eat. The couple’s home is little more than a cave built of rocks and thatch. The couple’s one son was taken by wolves in 719TR while checking on the family pig in a pen behind the house.</p>",
+        "format": 1
+      },
+      "_id": "8bRTPB2XJhjkGQYF",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.8bRTPB2XJhjkGQYF"
+    },
+    {
+      "name": "[2] Villein (Eld of Clan Kralis)",
+      "type": "text",
+      "text": {
+        "content": "<p>A member of the second largest clan, Eld is squeaking by through careful management of his twenty-two acres. Only his wife and his brother survived out of a family of seven. He lost his parents and two children to starvation in the winter of 717. Their deaths mean the survivors have enough to eat most days.</p>",
+        "format": 1
+      },
+      "_id": "xn5csoCgj1USaq8F",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.xn5csoCgj1USaq8F"
+    },
+    {
+      "name": "[3] Metalsmith (Varyl of Clan Drengen)",
+      "type": "text",
+      "text": {
+        "content": "<p>Size: 4 Quality: ★★★ Price: Average</p>\n<p>Varyl is particularly vulnerable. During the good times under Clan Morfan, he invested heavily, borrowing from a usurer to buy this franchise and taking on a journeyman and two apprentices in expectations of growth on the manor. He also has a wife, three children (12, 11 and 8), his mother-in-law and his aunt to support. Akitt knew this, and used it to keep him at the verge of financial ruin in order to control him. Varyl has severe ulcers and drinks heavily.</p>",
+        "format": 1
+      },
+      "_id": "DQmVvwRE1bVG5C2K",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.DQmVvwRE1bVG5C2K"
+    },
+    {
+      "name": "[4] Half-Villein (Umis of Clan Kralis)",
+      "type": "text",
+      "text": {
+        "content": "<p>Strong constitutions and a ruthless family head, Umis, have kept this large family together and alive. His mother, three brothers, one sister, wife and two teenage daughters all work extremely hard, eking every possible bit of food out of their garden and eleven acres. All four brothers are talented trappers and their poaching is all that has kept body and soul together for the last five years.</p>",
+        "format": 1
+      },
+      "_id": "phJQM9Jj61YCN4R2",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.phJQM9Jj61YCN4R2"
+    },
+    {
+      "name": "[5] Half-Villein (Barane of Clan Heryla)",
+      "type": "text",
+      "text": {
+        "content": "<p>Despite Akitt’s departure, Barane will not live out the month. His wife and two teenage sons have been frantic since he broke his leg plowing three weeks ago. The wound has turned septic and he will die shortly. Barane is trying to make his wife promise not to turn out his two worthless sisters when he dies, but her mind is set, without her husband, her children come first. No matter what happens, the two former domestics will be homeless within the month.</p>",
+        "format": 1
+      },
+      "_id": "BFFP94PZMO4gNNNl",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.BFFP94PZMO4gNNNl"
+    },
+    {
+      "name": "[6] Yeoman (MF) (Weryn of Clan Ailt)",
+      "type": "text",
+      "text": {
+        "content": "<p>Weryn is in a difficult position. As head of Clan Ailt, he is responsible for all of the members of his clan, but he is also a yeoman who must serve the bailiff. Frequently these two duties have clashed and he has been forced to oppress his own clansmen. He has tried to make up for it by sharing out the food he can spare after feeding his wife, sister and two parents, but it has done little to mend the mistrust caused when, under the swords of the two mercenaries, he was forced to beat his own cousin, Ailarn (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.FNaxu57dugiwKjTc]{[13] Cottar (Ailarn of Clan Heryla)}), unconscious for stealing food.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "o0gAAUdWgKS8U8t5",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.o0gAAUdWgKS8U8t5"
+    },
+    {
+      "name": "[7] Half-Villein (Maras of Clan Drebor)",
+      "type": "text",
+      "text": {
+        "content": "<p>Maras’ family is too large for the amount of land he works. With only eighteen acres, he must try and feed himself, two brothers, sister-in-law, nephew and niece. His wife and two young children died last winter. He rarely talks except to ask for another beer.</p>",
+        "format": 1
+      },
+      "_id": "7IQdfg6z5gNUITNO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.7IQdfg6z5gNUITNO"
+    },
+    {
+      "name": "[8] Yeoman (MF) (Soben of Clan Heryla)",
+      "type": "text",
+      "text": {
+        "content": "<p>Soben likes to talk tough, but he is afraid to follow through. Once, when his back was to the door, Akitt walked in and caught him plotting to escape. The bailiff didn’t punish him; instead he handed Soben’s teenage daughter over to his mercenaries for a night and warned him that his eight year old daughter would be next if he ever tried anything else. Soben supports his wife, two daughters, grandson (from the rape) and a cousin. When Akitt said jump, Soben obeyed.</p>",
+        "format": 1
+      },
+      "_id": "RTkHfMvVONTAzZgg",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.RTkHfMvVONTAzZgg"
+    },
+    {
+      "name": "[9] Villein (Tokra of Clan Heryla)",
+      "type": "text",
+      "text": {
+        "content": "<p>A member of the largest clan in the village, Tokra’s family has survived by putting the clan’s interests ahead of the village’s interests. A strong man, Tokra’s brother Arrel proved to be very good with the crosscut saw. He worked hard and didn’t complain, leading Lynd the timberwright to make him foreman in charge of assigning duties. He made sure that Clan Heryla got the best duties, with the most time for scavenging in the forest and working their plots, at the expense of the other clans. Despite the unpopularity that caused, the two brothers were able to support their wives, two unmarried sisters and Tokra’s four teenage children. Arrel’s children, who were younger, died anyway.</p>",
+        "format": 1
+      },
+      "_id": "hYz7q15pI2YJldE8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.hYz7q15pI2YJldE8"
+    },
+    {
+      "name": "[10] Villein (Krisi of Clan Drebor)",
+      "type": "text",
+      "text": {
+        "content": "<p>Krisi is young and he and his wife did not have any children when Lord Akitt arrived. He is supporting two orphaned nephews (14 and 17), though it is not too much of a burden because they are old enough to work. He has enough land to feed his own family and in his role as clan head, he shares his surplus with the less fortunate members of his clan. He works hard to keep peace in the village, fearing that if the villagers cause trouble, it will only make things worse. He will be one of the most useful supporters of any new bailiff.</p>",
+        "format": 1
+      },
+      "_id": "W1vhsiCAC7wbT3NX",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.W1vhsiCAC7wbT3NX"
+    },
+    {
+      "name": "[11] Cottar (Brilan of Clan Kyfa)",
+      "type": "text",
+      "text": {
+        "content": "<p>Clan Kyfa are newcomers to Charmic. They were brought here by Lord Akitt. The family head is Brilan, a former teamster from Gardiren. He and his four brothers were responsible for transporting the timber from the manor to the buyers. They asked no questions, even when the deliveries were made in the middle of the night. Hard men, they are familiar with cudgels and staffs and are not afraid to use them. After Kenric and Hedin (the two mercenaries) they are the most feared men in the village. With the departure of their patron and protector, the six men stay close to their wives and Brilan’s infant son. They are ready to flee if necessary.</p>",
+        "format": 1
+      },
+      "_id": "1qZ2VLhQh0TvqhKc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.1qZ2VLhQh0TvqhKc"
+    },
+    {
+      "name": "[12] Half-Villein (Virisla of Clan Heryla)",
+      "type": "text",
+      "text": {
+        "content": "<p>Virisla has a dark secret. During the worst of the famine, while his wife slept, he took his son and daughter (who were starving and weak from fever) into the graveyard and strangled them rather than watch them die slowly. He then buried them. When his wife awoke, he told her that they had died in the night. His wife does not believe him and refuses to let him touch her. She sleeps with her sister, brother-in-law and two nieces at the other end of the cottage. Virisla is racked with guilt and is contemplating suicide.</p>",
+        "format": 1
+      },
+      "_id": "6frzhtIyJJVD0h6k",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.6frzhtIyJJVD0h6k"
+    },
+    {
+      "name": "[13] Cottar (Ailarn of Clan Heryla)",
+      "type": "text",
+      "text": {
+        "content": "<p>Ailarn never married. He lives with his mother in a small cottage. She works their garden plot and he toils at the timberwright’s yard. He has become more adept at stealing vegetables from other villager’s plots and hiding his tracks since being beaten unconscious by his cousin Weryn (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.o0gAAUdWgKS8U8t5]{[6] Yeoman (MF) (Weryn of Clan Ailt)}) last autumn.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "FNaxu57dugiwKjTc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1450000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.FNaxu57dugiwKjTc"
+    },
+    {
+      "name": "[14] Villein-Woodward (Muir of Clan Torlis)",
+      "type": "text",
+      "text": {
+        "content": "<p>Since he was thrown out the front door of the manor hall, Muir has taken a very liberal attitude to his duties. If he is not allowed to regulate the timberwright then why should he regulate the villagers? Poaching is rampant, Muir being among the worst offenders. The deer he shoots have kept more than one member of Clan Torlis from starving to death these last five years. Akitt did not hunt, so he didn’t notice. Muir’s wife and three sons are among the best fed in the village. Even so, Muir is careful to be generous with any surplus from his thirty-nine acres to stay on the good side of the other villagers.</p>",
+        "format": 1
+      },
+      "_id": "bF2bTXDwek4YvSRN",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.bF2bTXDwek4YvSRN"
+    },
+    {
+      "name": "[15] Villein (Ulstin of Clan Heryla)",
+      "type": "text",
+      "text": {
+        "content": "<p>Ulstin, his wife, father and two aunts, have survived the famine and hardship with some grace. Although only a mediocre farmer, he has thirty-two acres, enough to support his family. His father can still work and his wife is strong, so they work the family land while he cuts trees. His three daughters died of the cough because of a lack of firewood for heating.</p>",
+        "format": 1
+      },
+      "_id": "L2K8Wuw3K4cStPlA",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.L2K8Wuw3K4cStPlA"
+    },
+    {
+      "name": "[16] Cottar (Eadil of Clan Heryla)",
+      "type": "text",
+      "text": {
+        "content": "<p>Eadil and his wife would not have survived without the support of the Clan Head, Tokra (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.hYz7q15pI2YJldE8]{[9] Villein (Tokra of Clan Heryla)}). He made sure Eadil was able to slip away from work parties to hunt rabbits with his sling. That bit of extra protein has kept them alive, though his wife’s joints are swollen and she can hardly walk.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "KmWuririJNzdkM6K",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.KmWuririJNzdkM6K"
+    },
+    {
+      "name": "[17] Cottar (Seld of Clan Sarion)",
+      "type": "text",
+      "text": {
+        "content": "<p>Seld is the sole survivor of his once thriving household of eight. With only three acres he was forced to watch first his parents and then his children fade away. His wife was killed by wolves last winter as she collected drop wood in the manor wood lot. He would kill Akitt if he got the chance. He will gladly help anyone pursuing the bailiff.</p>",
+        "format": 1
+      },
+      "_id": "ohp4TaE4O0p530fT",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.ohp4TaE4O0p530fT"
+    },
+    {
+      "name": "[18] Cottar (Witol of Clan Sarion)",
+      "type": "text",
+      "text": {
+        "content": "<p>Witol is the former reeve of Charmic. As stated in The Dark Years above, he was stripped of his office and his son was killed for trying to runaway in 717. Witol is a broken man, but if his confidence can be restored, he is the one man who could bring some order to the village and start to rebuild the manor and his own life.</p>",
+        "format": 1
+      },
+      "_id": "4Ln4PYFs06BeJH3U",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 1900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.4Ln4PYFs06BeJH3U"
+    },
+    {
+      "name": "[19] Villein-Herder (Harquey of Clan Heryla)",
+      "type": "text",
+      "text": {
+        "content": "<p>The head of the largest clan in the village and also the herder, Harquey should be quite thankful, but he is not. Despite having enough food to spare for less fortunate clansmen, he was not able to save his first born son from being killed when a tree fell on him in the forest. He blames Arrel who put his son on an “easy” detail trimming branches from the trees after they were felled. His wife holds the household (including their younger son, her mother and two nieces) together.</p>",
+        "format": 1
+      },
+      "_id": "TqfZEqPiqufsoujh",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.TqfZEqPiqufsoujh"
+    },
+    {
+      "name": "[20] Cottar (Arsain of Clan Torlis)",
+      "type": "text",
+      "text": {
+        "content": "<p>Arsain is the village healer. During the last five years, he has spent more time comforting those dying of starvation rather than healing them. Five times, he collected poisonous plants to give to the manor cook to kill the hated Lord Akitt and five times his strong Peonian morals stopped him. He supports his wife and mother. He is the brother of Aslen (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.MtDAeS4577sqolDw]{[28] Cottar (Aslen of Clan Torlis)}).</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "H2gl1V06LWyYE9lL",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.H2gl1V06LWyYE9lL"
+    },
+    {
+      "name": "[21] Miller (Deren of Clan Kleve)",
+      "type": "text",
+      "text": {
+        "content": "<p>Size: 2 Quality: ★★★ Price: Average</p>\n<p>With Lord Akitt’s departure, Deren is packing up his family (wife, son, niece and apprentice) and going while the going is good. He has already contacted his brother (and fellow miller) near Kiban and plans to move there within the month. Only quick action will convince him to stay.</p>",
+        "format": 1
+      },
+      "_id": "ICL8bLf2JoLFkWNW",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.ICL8bLf2JoLFkWNW"
+    },
+    {
+      "name": "[22] Villein (Col of Clan Drebor)",
+      "type": "text",
+      "text": {
+        "content": "<p>Because of their size and strength, Col and his two sons were regularly conscripted to saw beams at the timberwright’s yard. After a punishing day, they would spend half the night in the fields trying to keep food on the table. They succeeded, but at the cost of Col’s health. He took to his bed with a racking cough two weeks ago. He won’t live out the month.</p>",
+        "format": 1
+      },
+      "_id": "pw4bK5Xir4M6N12U",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.pw4bK5Xir4M6N12U"
+    },
+    {
+      "name": "[23] Villein (Mabisi of Clan Drebor)",
+      "type": "text",
+      "text": {
+        "content": "<p>A talented farmer with a substantial amount of land, forty serf acres and five free acres, Mabisi could have lived well through the last five years if he wasn’t so free with his food. As Clanhead, he supported several families, often leaving his wife, uncle and cousin on the verge of starvation themselves. For this, he is much beloved by his clan. A pragmatic man, he is willing to forget Akitt and work closely with a new bailiff for the good of his clan if he sees him as a just and fair lord.</p>",
+        "format": 1
+      },
+      "_id": "lfCHQMYAmUyOlgc8",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.lfCHQMYAmUyOlgc8"
+    },
+    {
+      "name": "[24] Glebe (Father Perras) Image",
+      "src": "modules/hm-loc-charmic/assets/images/father-perras.webp",
+      "type": "image",
+      "image": {
+        "caption": "[24] Glebe (Father Perras)"
+      },
+      "_id": "cVgKkIKCqQuILQR6",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 2500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.cVgKkIKCqQuILQR6"
+    },
+    {
+      "name": "[24] Glebe (Father Perras)",
+      "src": "modules/hm-loc-charmic/assets/images/father-perras.webp",
+      "type": "text",
+      "image": {
+        "caption": "[24] Glebe (Father Perras)"
+      },
+      "_id": "YHUdZVGpXiX6RIPG",
+      "text": {
+        "content": "<p><img style=\"width:35%;float:left;margin-right:5px\" src=\"modules/hm-loc-charmic/assets/images/father-perras.webp\" /></p>\n<p>For five years, Father Perras preached the gospel of Peoni: Everyone has their station; we must endure; Peoni will send the Earl. In the end, he was forced to take matters into his own hands after he presided over the burial of six children in just one week. He is working closely with Sir Peart and praying hard that the Earl will send a good bailiff to lead them. His support is vital to ruling the manor.</p>\n<p>The village glebe is large, a result of generous support from Clan Morfan over many years. It includes an orchard with apple trees and a large chapel. The priest lives in a small complex of buildings behind the chapel. They include a small tithe barn (completely empty), a pig sty (vacant for three years) and a humble house for Father Perras (built by the parishioners).</p>\n<p>Besides the orchard, there is a large stand of beech nut trees that predate the village. They were left uncut when the village was founded. By tradition, the nuts are collected and shared by the whole community. When he had a pig, Father Perras used to let her forage in the little stand of trees. The area was also a popular playground for the children of the village before the famine and cold winters took most of their lives. It is now deserted and has an eerie, foreboding feeling.</p>\n<p>Between the woods and the road is the village cemetery, much fuller than it was only five years ago. Dozens of mounds with little piles of stones or crude stick markers mark fresh graves. It is all the villagers can afford. The villagers avoid the graveyard by night. People talk of seeing two ghostly figures, a boy and a girl, walking hand in hand through the cemetery. It is rumoured to be the children of Virisla (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.6frzhtIyJJVD0h6k]{[12] Half-Villein (Virisla of Clan Heryla)}) who the residents believe strangled his children in their sleep.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 2600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.YHUdZVGpXiX6RIPG"
+    },
+    {
+      "name": "[25] Half-Villein (Ithar of Clan Kralis)",
+      "type": "text",
+      "text": {
+        "content": "<p>More than any other family, Ithar’s family suffered at the hand of Lord Akitt. On returning from a days work in the forest, he came across Hedin (one of Akitt’s mercenaries) raping his daughter. His son had already tried to come to her aid, but had been killed by Hedin and lay dead in the road, while his daughter screamed. When Ithar raised his axe to attack Hedin, the other mercenary, Kenric, took his arm off at the shoulder with one stroke of his sword. Akitt allowed Ithar to live and put his son’s head on a pike as a warning to the other villagers. Ithar’s wife struggles to support her one-armed husband and her traumatized daughter.</p>",
+        "format": 1
+      },
+      "_id": "L7q6Qlc45zfwEyQP",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.L7q6Qlc45zfwEyQP"
+    },
+    {
+      "name": "[26] Villein (Baralis of Clan Torlis)",
+      "type": "text",
+      "text": {
+        "content": "<p>A successful farmer and head of his clan, Baralis is not a popular man. He hoards food, sharing nothing with the less fortunate members of his clan. His mother, wife and two sons are well fed and strong. He believes only the strong (or in this case, those with land) will survive. He cares nothing for the suffering of others.</p>",
+        "format": 1
+      },
+      "_id": "hzVo1sbwzPBKOgeX",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.hzVo1sbwzPBKOgeX"
+    },
+    {
+      "name": "[27] Cottar (Undryn of Clan Ailt)",
+      "type": "text",
+      "text": {
+        "content": "<p>Another widower, Undryn buried his wife and two children the first winter of Akitt’s reign of terror. He is little more than a shell now. Father Perras watches over him and make sure he eats. He has little will to live.</p>",
+        "format": 1
+      },
+      "_id": "RToFPE0RLRto94EA",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 2900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.RToFPE0RLRto94EA"
+    },
+    {
+      "name": "[28] Cottar (Aslen of Clan Torlis)",
+      "type": "text",
+      "text": {
+        "content": "<p>Aslen was never married. The only reason he has not fled is because of the retribution that would be visited upon his mother and brother (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.H2gl1V06LWyYE9lL]{[20] Cottar (Arsain of Clan Torlis)}). He and the timberwright’s apprentice, Thales, are lovers. Most of the villagers know but don’t care as long as they are discreet.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "MtDAeS4577sqolDw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.MtDAeS4577sqolDw"
+    },
+    {
+      "name": "[29] Villein–Reeve (Jodion of Clan Drebor)",
+      "type": "text",
+      "text": {
+        "content": "<p>Shortly after Akitt arrived, Jodion took the opportunity to make himself useful to the new lord by reporting other villagers who were shirking their duty. Soon, he became Akitt’s eyes and ears in the village. In 717, the bailiff had had enough of Witol’s whining about fief maintenance and crops, and sacked him. Jodion was the natural choice to replace him. He agreed to what ever the lord said and drove his fellow villagers without mercy. He and his wife, sister, son and two daughters live very comfortably. Secretly, his son despises Jodion and was planning to kill Akitt with a dagger he stole from his father, but the bailiff ran before he had a chance. The boy plans to flee Charmic and shame his father. He will follow any bounty hunters who come to the village and beg to join the hunt for Akitt and his men.</p>",
+        "format": 1
+      },
+      "_id": "Z8UYayt8efB11Akg",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.Z8UYayt8efB11Akg"
+    },
+    {
+      "name": "[30] Half-Villein (Anrorian of Clan Drebor)",
+      "type": "text",
+      "text": {
+        "content": "<p>Anrorian and his family could not have survived the last five years without the generous support of their clan head, Mabisi (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.lfCHQMYAmUyOlgc8]{[23] Villein (Mabisi of Clan Drebor)}). In return, Anrorian has pledged his unconditional loyalty to him. Anrorian lives with his wife, adult son, his son’s wife, teenage daughter and elderly aunt and uncle.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "0JpM6EVWleAUW2Ln",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.0JpM6EVWleAUW2Ln"
+    },
+    {
+      "name": "[31] Cottar (Arath of Clan Narad)",
+      "type": "text",
+      "text": {
+        "content": "<p>An outsider with a wife, teenage son and elderly parents to support, Arath had no choice but to throw his lot in with Akitt. He bullied the other villagers and did what he was told. Unlike some others, he never revelled in his task and tried to moderate the punishments meted out. Unfortunately, the villagers have lumped him in with the other “enforcers” and now he fears for the safety of his family. He will try and ingratiate himself wi anyone in power.</p>",
+        "format": 1
+      },
+      "_id": "IM0gHuTm4ysE91MC",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.IM0gHuTm4ysE91MC"
+    },
+    {
+      "name": "[32] Cottar-Beadle (Kloril of Clan Ibin)",
+      "type": "text",
+      "text": {
+        "content": "<p>The role of beadle is that of village policeman and enforcer of the lord’s will. Never has someone relished his task as much as Kloril. A single man with a large red birthmark on his face, Kloril was tormented all his life. Akitt recognised this and used it to his advantag putting Kloril in charge of those who had tormented him as a child. As a single man (his parents died years ago), he had no ties to any of the other clans. He now fears for his life. He has been very quiet since Akitt fled.</p>",
+        "format": 1
+      },
+      "_id": "wrstErZ7IdTOgcNU",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.wrstErZ7IdTOgcNU"
+    },
+    {
+      "name": "[33] Cottar (Endaen of Clan Heryla)",
+      "type": "text",
+      "text": {
+        "content": "<p>Endaen has two teenage boys and a girl (11). His wife died three years ago and the children are being cared for by his elderly spinster aunt. He works for hi cousin, Harquey (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.TqfZEqPiqufsoujh]{[19] Villein-Herder (Harquey of Clan Heryla)}), the village herder. He is also an accomplished poacher. He has a short bow and arrows hidden in the woods.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "yfRbadgPaJhefW5m",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.yfRbadgPaJhefW5m"
+    },
+    {
+      "name": "[34] Half-Villein (Ulyn of Clan Ailt)",
+      "type": "text",
+      "text": {
+        "content": "<p>Although food is sometimes short, Ulyn’s house is one tiny glimmer of joy in this otherwise grey village. Two months ago his wife gave birth to a brand new baby boy. The women of the clan have come together to make sure both mother and baby have enough to eat. In return, Ulyn and his half-brother and nephew have worked extra hours at the sawpit to allow other men time in the fields.</p>",
+        "format": 1
+      },
+      "_id": "4CULYJP2fWGCoHb0",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.4CULYJP2fWGCoHb0"
+    },
+    {
+      "name": "[35] Villein (Narus of Clan Drebor)",
+      "type": "text",
+      "text": {
+        "content": "<p>Narus is the younger brother of Mabisi (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.lfCHQMYAmUyOlgc8]{[23] Villein (Mabisi of Clan Drebor)}). Also fairly successful, he has come through the hard times with his sense of humour intact. Even in the hardest times, he would be cracking jokes and raising a weary smile from the other men. He lives with his wife and three distant cousins (orphans). He and his wife can’t have children, so they have adopted children from within the clan who have lost their parents.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "vJMPZUQC9oqxDmYp",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.vJMPZUQC9oqxDmYp"
+    },
+    {
+      "name": "[36] Half-Villein (Raena of Clan Kralis)",
+      "type": "text",
+      "text": {
+        "content": "<p>Raena depends heavily on Arge (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.3Uz6T1K9UmhWOKvx]{[39] Villein (Arge of Clan Kralis)}) the clan head. Her husband was killed trying to protect her from wolves, with a garden hoe as his only weapon, when she was attacked while working in their garden plot last winter. He left her with a son (13) and two daughters (15 and 14). Her brother lives with them, but he has been blind since birth. She often complains that it should have been him that died, not her beloved husband.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "u9sdZwJ0oQln47OE",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.u9sdZwJ0oQln47OE"
+    },
+    {
+      "name": "[37] Woodcrafter (Aenan of Clan Korien)",
+      "type": "text",
+      "text": {
+        "content": "<p>Size: 2 Quality: ★★★★ Price: Very low</p>\n<p>Aenan and his apprentice were brought to Charmic by Clan Morfan in 714 to build a new barn and manor house. When the Morfans were awarded their own manor, they assured him that the new bailiff would still need his services. Akitt did, as a junior journeyman and serf to his cousin, Lynd the timberwright. Aenan refused to stand for the insult and announced he was leaving immediately. That night he received a visit from Brilan and his brothers (@UUID[JournalEntry.zhwcK5xXatRfQwrv.JournalEntryPage.1qZ2VLhQh0TvqhKc]{[11] Cottar (Brilan of Clan Kyfa)}). After they ransacked the house, they held his newborn son over the fire and told him he wasn’t going anywhere. For the next five years, one of Akitt’s lackeys was always watching him and his family. Aenan has already demanded an audience with Sir Peart to claim damages and travelled to Gardiren to lodge a formal complaint with his guild. Strangely, his wife has grown to love the people of the village and wouldn’t consider leaving.</p>",
+        "format": 1,
+        "markdown": ""
+      },
+      "_id": "MDCuo6GoMO6adTMB",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 3900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.MDCuo6GoMO6adTMB"
+    },
+    {
+      "name": "[38] Villein (Koman of Clan Torlis)",
+      "type": "text",
+      "text": {
+        "content": "<p><img style=\"width:35%;float:left;margin-right:5px\" src=\"modules/hm-loc-charmic/assets/images/koman-of-torlis.webp\" /></p>\n<p>Koman is forty-three years old and an adopted member of Clan Torlis. He came to the village thirty-nine years ago in the care of an old man and woman. He grew up and married into the clan and he and his wife have two grown sons, one of whom is married. Koman also supports two of his wife’s sisters. Unknown to all but Koman, he is actually from Rethem. He is the bastard son of Kedrel Norgalen and Tamasyne Lerek and has letters of acknowledgement and a number of strange artefacts in an iron box buried under his bed. He was spirited out of kingdom by loyal servants of his father to escape the clutches of Regent Puril. Koman has no desire to resurrect this past, but he was trained with a sword in secret as a young man and will fight to protect his family. He is Peonian.</p>",
+        "format": 1
+      },
+      "_id": "xSILQSV4tAuWRrAt",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.xSILQSV4tAuWRrAt"
+    },
+    {
+      "name": "[39] Villein (Arge of Clan Kralis)",
+      "type": "text",
+      "text": {
+        "content": "<p>Despite loosing several Clan members to starvation, Arge and his wife have come through the hard times relatively well. Their children were all grown before Akitt arrived and so were able to help during the lean years. Arge still supports his wife, two sons, one daughter, her husband and a four year old granddaughter. The girl is constantly ill and has broken several bones already in her young life. Arge is clan head of Clan Kralis.</p>",
+        "format": 1
+      },
+      "_id": "3Uz6T1K9UmhWOKvx",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.3Uz6T1K9UmhWOKvx"
+    },
+    {
+      "name": "[40] Half-Villein (Uldon of Clan Torlis)",
+      "type": "text",
+      "text": {
+        "content": "<p>Uldion works hard to support his family. His wife is a complainer and does little to help. The only good thing to come out of the famine is that she isn’t fat anymore. She sits and bitches with her two cousins who live with the couple. One of the women was quite friendly with Kenric the mercenary and now has two bastard children that Uldion must support as well.</p>",
+        "format": 1
+      },
+      "_id": "apU5voXXpSs3BbQ4",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.apU5voXXpSs3BbQ4"
+    },
+    {
+      "name": "[41] Farmer (Nae of Clan Sarion)",
+      "type": "text",
+      "text": {
+        "content": "<p>Aside from the yeomen, Nae is the only free farmer in the village. Because of this, he was able to avoid most of the problems faced by the rest of the village. An excellent farmer, he was easily able to support his wife and himself on their ten acres. He saw early what was going on and was smart enough to send his sons to find work in Gardiren. He has two strapping lads who would be willing to move back to Charmic if there were any decent prospects.</p>",
+        "format": 1
+      },
+      "_id": "rZ5KCg5UXQiNwv8T",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.rZ5KCg5UXQiNwv8T"
+    },
+    {
+      "name": "[A] Manor House",
+      "type": "text",
+      "text": {
+        "content": "<p>The manor house is extremely rundown. See detailed description on the following pages.</p>",
+        "format": 1
+      },
+      "_id": "3FrBgo6laAaoxCqO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.3FrBgo6laAaoxCqO"
+    },
+    {
+      "name": "[B] Manor Wood Lot",
+      "type": "text",
+      "text": {
+        "content": "<p>This is the eastern edge of the wood lot that Akitt is allowed to log. It is largely untouched.</p>",
+        "format": 1
+      },
+      "_id": "DrZbZ3qL5jnjN6y3",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4500000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.DrZbZ3qL5jnjN6y3"
+    },
+    {
+      "name": "[C] Village Common",
+      "type": "text",
+      "text": {
+        "content": "<p>The area in front of the manor house is reserved for a gathering area for the villagers. It was rarely used during Lord Akitt’s reign, except when he called the peasants together to threaten them.</p>",
+        "format": 1
+      },
+      "_id": "5AGlvF8JDg5kqlA2",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.5AGlvF8JDg5kqlA2"
+    },
+    {
+      "name": "[D] Peonian Shrine Image",
+      "src": "modules/hm-loc-charmic/assets/images/peonian-shrine.webp",
+      "type": "image",
+      "image": {
+        "caption": "[D] Peonian Shrine"
+      },
+      "_id": "ZI7JuAP7LZE96SWm",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 4700000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.ZI7JuAP7LZE96SWm"
+    },
+    {
+      "name": "[D] Peonian Shrine",
+      "src": "modules/hm-loc-charmic/assets/images/peonian-shrine.webp",
+      "type": "text",
+      "image": {
+        "caption": "[D] Peonian Shrine"
+      },
+      "_id": "HY5Q7PzAnaffgfOe",
+      "text": {
+        "content": "<p><img style=\"width:100%\" src=\"modules/hm-loc-charmic/assets/images/peonian-shrine.webp\" /></p>\n<p>Little more than a stack of field stone and a few donations, this shrine is typical of the Peonian shrines that dot the Kaldoric countryside.</p>",
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 4800000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.HY5Q7PzAnaffgfOe"
+    },
+    {
+      "name": "[E] Meadowland",
+      "type": "text",
+      "text": {
+        "content": "<p>This is the best land on the manor and is reserved for hay to feed the livestock over the winter.</p>",
+        "format": 1
+      },
+      "_id": "bKroYqli6OeTBPnw",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 4900000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.bKroYqli6OeTBPnw"
+    },
+    {
+      "name": "[F] Bridge",
+      "type": "text",
+      "text": {
+        "content": "<p>The bridge framework is still strong, but several of the planks on the roadway are rotten and need to be replaced. The lane to the south-west is just five years old. It leads to the King’s forest where most of the logging took place. It is heavily rutted.</p>",
+        "format": 1
+      },
+      "_id": "uHxg3MPyOXSAl6YR",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5000000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.uHxg3MPyOXSAl6YR"
+    },
+    {
+      "name": "[G] Track to Zernhol Manor",
+      "type": "text",
+      "text": {
+        "content": "<p>This narrow and rutted track eventually leads to the next manor. Few use it as the road is plagued by wolves that have grown bold indeed over the last few years.</p>",
+        "format": 1
+      },
+      "_id": "1dEOpj3PeMR3L8UY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5100000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.1dEOpj3PeMR3L8UY"
+    },
+    {
+      "name": "[H] Road to Umbrea Manor",
+      "type": "text",
+      "text": {
+        "content": "<p>This is the main road to the manor. The lane leads straight into Gardiren just five leagues away.</p>",
+        "format": 1
+      },
+      "_id": "YFIaj59e4Kw9NVV2",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5200000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.YFIaj59e4Kw9NVV2"
+    },
+    {
+      "name": "[I] Timberwright's Yard Image",
+      "src": "modules/hm-loc-charmic/assets/images/timberwrights-yard.webp",
+      "type": "image",
+      "image": {
+        "caption": "[I] Timberwright's Yard"
+      },
+      "_id": "Axnw6f7yFfQgPf4z",
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 5300000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.Axnw6f7yFfQgPf4z"
+    },
+    {
+      "name": "[I] Timberwright's Yard",
+      "src": "modules/hm-loc-charmic/assets/images/timberwrights-yard.webp",
+      "type": "text",
+      "image": {
+        "caption": "[I] Timberwright's Yard"
+      },
+      "_id": "pZ8eeOcFlCglkbj8",
+      "text": {
+        "content": "<p><img style=\"width:100%\" src=\"modules/hm-loc-charmic/assets/images/timberwrights-yard.webp\" /></p>\n<p><span style=\"color:#191813\">The yard includes the finest house in the village. Until Lynd left, it was the hub of activity in the village. Now it is eerily quiet. The temporary bailiff is currently staying here.</span></p>\n<p>Lynd’s yard is in the centre of the village. The site was chosen for its easy access for wagons and to get the maximum work out of the serfs. Some of the wood came from the Charmic Manor wood lot, but most of it came from the King’s forest outside the manor boundaries. The villagers hopes that the King’s Forester would find out and put and end to Lynd and Akitt were dashed when they saw the man accept a large bribe from the cousins and ride away with a big smile on his face (GM Note: The Earl will want to know this and definitely bring it to the attention of the King. This may lead to a second search…for the Forester.).</p>\n<ul>\n<li>@UUID[JournalEntry.LTrdMSHIJUIJbyHY.JournalEntryPage.MirlZTNgCA3HXRlH]{[T1] Tool Shed}</li>\n<li>@UUID[JournalEntry.LTrdMSHIJUIJbyHY.JournalEntryPage.zSoiepXJKJwDXiWB]{[T2] Timberwright’s House}</li>\n<li>@UUID[JournalEntry.LTrdMSHIJUIJbyHY.JournalEntryPage.Gd12XpsiWYRh4xFO]{[T3] Drying House}</li>\n</ul>",
+        "format": 1,
+        "markdown": ""
+      },
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "sort": 5400000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.pZ8eeOcFlCglkbj8"
+    },
+    {
+      "name": "[J] Demesne Farm",
+      "type": "text",
+      "text": {
+        "content": "<p>These building compose the working out-buildings of the Lord’s farm, including the cow barn, pig sty and sheep shed. The buildings are well constructed and though neglected and dirty are still in good shape. The Reeve supervises all work here.</p>",
+        "format": 1
+      },
+      "_id": "AkzQWbOFFhtbLbKN",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 5600000,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!zhwcK5xXatRfQwrv.AkzQWbOFFhtbLbKN"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201019485,
+    "modifiedTime": 1659201019485,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "zhwcK5xXatRfQwrv",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!zhwcK5xXatRfQwrv"
+}

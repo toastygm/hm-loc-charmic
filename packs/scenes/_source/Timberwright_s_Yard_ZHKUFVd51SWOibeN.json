@@ -1,0 +1,880 @@
+{
+  "_id": "ZHKUFVd51SWOibeN",
+  "name": "Timberwright's Yard",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "foreground": null,
+  "thumb": "worlds/conv/assets/scenes/ZHKUFVd51SWOibeN-thumb.webp",
+  "width": 2800,
+  "height": 2000,
+  "padding": 0.1,
+  "initial": {},
+  "backgroundColor": "#999999",
+  "grid": {
+    "size": 100,
+    "type": 1,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 5,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1658088804856,
+  "globalLight": true,
+  "globalLightThreshold": 0.7,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [],
+  "lights": [
+    {
+      "_id": "m5705wsnpnwhhd53",
+      "x": 917,
+      "y": 924,
+      "rotation": 0,
+      "hidden": false,
+      "flags": {},
+      "config": {
+        "dim": 10,
+        "bright": 5,
+        "angle": 360,
+        "color": "#a2642a",
+        "alpha": 0.05,
+        "animation": {
+          "speed": 1,
+          "intensity": 3,
+          "type": "torch",
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0.2,
+          "max": 1
+        },
+        "coloration": 1,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "attenuation": 0.5
+      },
+      "walls": true,
+      "vision": false,
+      "_key": "!scenes.lights!ZHKUFVd51SWOibeN.m5705wsnpnwhhd53"
+    },
+    {
+      "_id": "25qgbh0v5prykkcu",
+      "x": 1653,
+      "y": 660,
+      "rotation": 0,
+      "hidden": false,
+      "flags": {},
+      "config": {
+        "dim": 10,
+        "bright": 5,
+        "angle": 360,
+        "color": "#a2642a",
+        "alpha": 0.05,
+        "animation": {
+          "speed": 1,
+          "intensity": 3,
+          "type": "torch",
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0.2,
+          "max": 1
+        },
+        "coloration": 1,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "attenuation": 0.5
+      },
+      "walls": true,
+      "vision": false,
+      "_key": "!scenes.lights!ZHKUFVd51SWOibeN.25qgbh0v5prykkcu"
+    },
+    {
+      "_id": "kcnn87stofr520px",
+      "x": 1650,
+      "y": 443,
+      "rotation": 0,
+      "hidden": false,
+      "flags": {},
+      "config": {
+        "dim": 10,
+        "bright": 5,
+        "angle": 360,
+        "color": "#a2642a",
+        "alpha": 0.05,
+        "animation": {
+          "speed": 1,
+          "intensity": 3,
+          "type": "torch",
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0.2,
+          "max": 1
+        },
+        "coloration": 1,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "attenuation": 0.5
+      },
+      "walls": true,
+      "vision": false,
+      "_key": "!scenes.lights!ZHKUFVd51SWOibeN.kcnn87stofr520px"
+    },
+    {
+      "_id": "zrq1myulyhui2aun",
+      "x": 1961,
+      "y": 589,
+      "rotation": 0,
+      "hidden": false,
+      "flags": {},
+      "config": {
+        "dim": 10,
+        "bright": 5,
+        "angle": 360,
+        "color": "#a2642a",
+        "alpha": 0.05,
+        "animation": {
+          "speed": 1,
+          "intensity": 3,
+          "type": "torch",
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0.2,
+          "max": 1
+        },
+        "coloration": 1,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "attenuation": 0.5
+      },
+      "walls": true,
+      "vision": false,
+      "_key": "!scenes.lights!ZHKUFVd51SWOibeN.zrq1myulyhui2aun"
+    },
+    {
+      "_id": "4fz939pqgg7k8b7u",
+      "x": 1422,
+      "y": 541,
+      "rotation": 0,
+      "hidden": false,
+      "flags": {},
+      "config": {
+        "dim": 20,
+        "bright": 10,
+        "angle": 360,
+        "color": "#7f4a14",
+        "alpha": 0.05,
+        "animation": {
+          "speed": 1,
+          "intensity": 3,
+          "type": "torch",
+          "reverse": false
+        },
+        "darkness": {
+          "min": 0,
+          "max": 1
+        },
+        "coloration": 1,
+        "luminosity": 0.5,
+        "saturation": 0,
+        "contrast": 0,
+        "shadows": 0,
+        "attenuation": 0.5
+      },
+      "walls": true,
+      "vision": false,
+      "_key": "!scenes.lights!ZHKUFVd51SWOibeN.4fz939pqgg7k8b7u"
+    }
+  ],
+  "notes": [
+    {
+      "_id": "W7ctTWsq4gd88w5U",
+      "entryId": "LTrdMSHIJUIJbyHY",
+      "x": 800,
+      "y": 1000,
+      "iconSize": 75,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "T1",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/4aacd2c5_T1.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "MirlZTNgCA3HXRlH",
+      "text": "[T1] Tool Shed",
+      "global": false,
+      "_key": "!scenes.notes!ZHKUFVd51SWOibeN.W7ctTWsq4gd88w5U"
+    },
+    {
+      "_id": "9nk7DUdadvRu4TY8",
+      "entryId": "LTrdMSHIJUIJbyHY",
+      "x": 1550,
+      "y": 550,
+      "iconSize": 75,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "T2",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/a16b9f88_T2.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "zSoiepXJKJwDXiWB",
+      "text": "[T2] Timberwright’s House",
+      "global": false,
+      "_key": "!scenes.notes!ZHKUFVd51SWOibeN.9nk7DUdadvRu4TY8"
+    },
+    {
+      "_id": "Vexvcq4YVr6ovxQH",
+      "entryId": "LTrdMSHIJUIJbyHY",
+      "x": 2350,
+      "y": 850,
+      "iconSize": 75,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "T3",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/be186427_T3.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "Gd12XpsiWYRh4xFO",
+      "text": "[T3] Drying House",
+      "global": false,
+      "_key": "!scenes.notes!ZHKUFVd51SWOibeN.Vexvcq4YVr6ovxQH"
+    },
+    {
+      "_id": "GrmLkTHkuT6VgcKq",
+      "entryId": "LTrdMSHIJUIJbyHY",
+      "x": 1650,
+      "y": 1350,
+      "iconSize": 75,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "T4",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/e6d5f992_T4.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "fVbxRFWcDdQ5ugny",
+      "text": "[T4] Sawpit",
+      "global": false,
+      "_key": "!scenes.notes!ZHKUFVd51SWOibeN.GrmLkTHkuT6VgcKq"
+    },
+    {
+      "_id": "XC09XLSnW7729UpV",
+      "entryId": "LTrdMSHIJUIJbyHY",
+      "x": 850,
+      "y": 1650,
+      "iconSize": 75,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "T5",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/be17e21_T5.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "kULbhirKAmVZTbp2",
+      "text": "[T5] Sawdust Pile",
+      "global": false,
+      "_key": "!scenes.notes!ZHKUFVd51SWOibeN.XC09XLSnW7729UpV"
+    }
+  ],
+  "sounds": [],
+  "templates": [],
+  "tiles": [
+    {
+      "_id": "qB0W7QgoDGYgrhiS",
+      "width": 600,
+      "height": 500,
+      "x": 2100,
+      "y": 1750,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "overhead": true,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/scenes/Tree_Green_A3_6x5.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "roof": false,
+      "_key": "!scenes.tiles!ZHKUFVd51SWOibeN.qB0W7QgoDGYgrhiS"
+    },
+    {
+      "_id": "z6WGzf5uQXXvXooj",
+      "width": 500,
+      "height": 600,
+      "x": 2450,
+      "y": 1400,
+      "z": 100,
+      "rotation": 0,
+      "alpha": 1,
+      "hidden": false,
+      "locked": false,
+      "overhead": true,
+      "occlusion": {
+        "mode": 1,
+        "alpha": 0,
+        "radius": null
+      },
+      "video": {
+        "loop": true,
+        "autoplay": true,
+        "volume": 0
+      },
+      "flags": {},
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/scenes/Tree_Green_A4_5x6.webp",
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0,
+        "tint": null
+      },
+      "roof": false,
+      "_key": "!scenes.tiles!ZHKUFVd51SWOibeN.z6WGzf5uQXXvXooj"
+    }
+  ],
+  "walls": [
+    {
+      "_id": "ij64qz82bgbh2tp7",
+      "c": [
+        2200,
+        800,
+        2400,
+        600
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.ij64qz82bgbh2tp7"
+    },
+    {
+      "_id": "7gnqvb1u4zlkdkt9",
+      "c": [
+        2400,
+        600,
+        2800,
+        1000
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.7gnqvb1u4zlkdkt9"
+    },
+    {
+      "_id": "65wih188waanv3z0",
+      "c": [
+        2800,
+        1000,
+        2600,
+        1200
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.65wih188waanv3z0"
+    },
+    {
+      "_id": "7in6qq4fjwlmbzpb",
+      "c": [
+        809,
+        1091,
+        800,
+        1100
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.7in6qq4fjwlmbzpb"
+    },
+    {
+      "_id": "xqywt4q6f6jcxr28",
+      "c": [
+        800,
+        1100,
+        600,
+        900
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.xqywt4q6f6jcxr28"
+    },
+    {
+      "_id": "8v8w5up26gpbek66",
+      "c": [
+        600,
+        900,
+        900,
+        600
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.8v8w5up26gpbek66"
+    },
+    {
+      "_id": "it2v39amnvoc2biy",
+      "c": [
+        900,
+        600,
+        1100,
+        800
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.it2v39amnvoc2biy"
+    },
+    {
+      "_id": "tmjo7boqmymfpfgs",
+      "c": [
+        1100,
+        800,
+        891,
+        1009
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.tmjo7boqmymfpfgs"
+    },
+    {
+      "_id": "1g8r7yp9tb1s1e6b",
+      "c": [
+        1500,
+        700,
+        1400,
+        700
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.1g8r7yp9tb1s1e6b"
+    },
+    {
+      "_id": "9wuf4amb9ikhg1qf",
+      "c": [
+        1400,
+        700,
+        1400,
+        400
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.9wuf4amb9ikhg1qf"
+    },
+    {
+      "_id": "17z6q0p7v8r2g08p",
+      "c": [
+        1400,
+        400,
+        1550,
+        400
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.17z6q0p7v8r2g08p"
+    },
+    {
+      "_id": "y6espkdzwdlpch2n",
+      "c": [
+        1650,
+        400,
+        1850,
+        400
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.y6espkdzwdlpch2n"
+    },
+    {
+      "_id": "u6oejhz6kv1egn8v",
+      "c": [
+        1950,
+        400,
+        2000,
+        400
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.u6oejhz6kv1egn8v"
+    },
+    {
+      "_id": "i746obn31q3st2ag",
+      "c": [
+        2000,
+        400,
+        2000,
+        700
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.i746obn31q3st2ag"
+    },
+    {
+      "_id": "gdfpzd5aie9m9rmj",
+      "c": [
+        2000,
+        700,
+        1600,
+        700
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.gdfpzd5aie9m9rmj"
+    },
+    {
+      "_id": "qnuubgjdpgfs7rfj",
+      "c": [
+        1800,
+        400,
+        1800,
+        484
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.qnuubgjdpgfs7rfj"
+    },
+    {
+      "_id": "h6jud5vhv8qs7jme",
+      "c": [
+        1800,
+        616,
+        1800,
+        700
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.h6jud5vhv8qs7jme"
+    },
+    {
+      "_id": "0owl5l58rq4qs9m7",
+      "c": [
+        891,
+        1009,
+        809,
+        1091
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 1,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.0owl5l58rq4qs9m7"
+    },
+    {
+      "_id": "ynu0u9tpaflw167v",
+      "c": [
+        1550,
+        400,
+        1650,
+        400
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 0,
+      "sight": 0,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.ynu0u9tpaflw167v"
+    },
+    {
+      "_id": "hvqozn4vqmjbzn8h",
+      "c": [
+        1850,
+        400,
+        1950,
+        400
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 0,
+      "ds": 0,
+      "flags": {},
+      "light": 0,
+      "sight": 0,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.hvqozn4vqmjbzn8h"
+    },
+    {
+      "_id": "geyjhv93lobdd2eo",
+      "c": [
+        1600,
+        700,
+        1500,
+        700
+      ],
+      "move": 20,
+      "sound": 20,
+      "dir": 0,
+      "door": 1,
+      "ds": 0,
+      "flags": {},
+      "light": 20,
+      "sight": 20,
+      "_key": "!scenes.walls!ZHKUFVd51SWOibeN.geyjhv93lobdd2eo"
+    }
+  ],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "weather": "",
+  "flags": {
+    "hm-loc-charmic": {
+      "imported": "1.1.0"
+    },
+    "scene-packer": {
+      "source-module": "hm-loc-charmic",
+      "packed-with-version": "2.3.17",
+      "sourceId": "Scene.jvpZeqNBA1evazr2",
+      "hash": "ec33f99d373046c264082cade97b98acf707fa05"
+    },
+    "core": {
+      "sourceId": "Compendium.hm-loc-charmic.scenes.ZHKUFVd51SWOibeN"
+    }
+  },
+  "background": {
+    "src": "modules/hm-loc-charmic/assets/scenes/timberwrights-yard.webp",
+    "offsetX": 0,
+    "offsetY": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": null,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201031808,
+    "modifiedTime": 1659201031808,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "_key": "!scenes!ZHKUFVd51SWOibeN"
+}

@@ -1,0 +1,265 @@
+{
+  "name": "Manor",
+  "pages": [
+    {
+      "name": "[M1] Causeway",
+      "type": "text",
+      "text": {
+        "content": "<p>The manor originally had a wooden bridge leading to a gate. When the previous bailiff’s hunted out all the wolves in the local area, they filled in part of the moat and removed the gate and a portion of wall to ease access to the barn and manor house in anticipation of major construction work.</p>",
+        "format": 1
+      },
+      "_id": "UriLjTBAgF1ieE1a",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!64DcGjkkvPnWNGXf.UriLjTBAgF1ieE1a"
+    },
+    {
+      "name": "[M2] Gatehouse and guard room",
+      "type": "text",
+      "text": {
+        "content": "<p>A pile of half-burned timbers and rubble mark the previous location of a small timber-frame building. It was the home of Akitt’s two mercenaries, Kenric and Hedin, until they left the fire unattended while drunk and it caught fire. After that, they lived in the main hall. The gatehouse was never rebuilt or even cleaned up.</p>",
+        "format": 1
+      },
+      "_id": "aOaXefOOL2vG8kTG",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!64DcGjkkvPnWNGXf.aOaXefOOL2vG8kTG"
+    },
+    {
+      "name": "[M3] Equipment Shed",
+      "type": "text",
+      "text": {
+        "content": "<p>The only things in this building are a single cart with a broken wheel and some rather motheaten tack. The thatched roof has come loose on the right rear corner and rain has leaked in.</p>",
+        "format": 1
+      },
+      "_id": "a7sRbbHViteXDuCH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!64DcGjkkvPnWNGXf.a7sRbbHViteXDuCH"
+    },
+    {
+      "name": "[M4] Kennel",
+      "type": "text",
+      "text": {
+        "content": "<p>This shelter once housed a dog-boy and several hunting dogs. Since the departure of Clan Morfan, it has stood empty. It is now home to a particularly territorial badger.</p>",
+        "format": 1
+      },
+      "_id": "0gviVeXFlrwY3oLz",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!64DcGjkkvPnWNGXf.0gviVeXFlrwY3oLz"
+    },
+    {
+      "name": "[M5] Stables",
+      "type": "text",
+      "text": {
+        "content": "<p>Until recently, this shed housed the four horses and three mules that belonging to Lord Akitt. It is in reasonable shape, though the floor has a thick layer of manure and is quite muddy. One poor stable boy lives in the loft. When Lord Akitt fired the ostler, he was left to tend all of the horses and mules, clean the tack and muck out the stables, an impossible task for a 13 year old boy. He was frequently beaten by the recently departed bailiff and cringes at the approach of any important looking person. He is starved for affection and will latch on to the first person who is nice to him.</p>",
+        "format": 1
+      },
+      "_id": "Gyj3Kcz99ikE7tqc",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!64DcGjkkvPnWNGXf.Gyj3Kcz99ikE7tqc"
+    },
+    {
+      "name": "[M6] Barn",
+      "type": "text",
+      "text": {
+        "content": "<p>Used as a granary, the barn is over thirty years old. Clan Morfan had planned to replace it in 716TR, but it was never done. The barn has a very distinct lean to one side as a result of weakening timbers. There is no foundation to speak of and the timbers were set directly in the ground causing them to rot badly. The barn is moderately full of goods that Akitt extorted from the villagers and didn’t have time to sell. With careful management, they might get the village through to the next harvest.</p>",
+        "format": 1
+      },
+      "_id": "65OjSGXLcAnhi3um",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!64DcGjkkvPnWNGXf.65OjSGXLcAnhi3um"
+    },
+    {
+      "name": "[M7] Kitchen",
+      "type": "text",
+      "text": {
+        "content": "<p>Built separately from the main hall in event of fire, this building is home to the two of the servants Akitt kept on after he assumed control of the fief. The cook is an older woman and was much abused by the men-at-arms. She is quite willing to tell everything she knows to anyone who will listen. The domestic is a young girl, once quite pretty; she cleaned, washed and served the lord and his men. In return for her hard work, she was raped regularly. She is now mute, though some tender loving care from another woman might get her to talk. After raping her, during what he felt was a sensitive moment, Akitt once told her his uncle lives near Thay.</p>",
+        "format": 1
+      },
+      "_id": "nsxlAA8kNWzcgcWY",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!64DcGjkkvPnWNGXf.nsxlAA8kNWzcgcWY"
+    },
+    {
+      "name": "[M8] Main Hall",
+      "type": "text",
+      "text": {
+        "content": "<p>This is a large timber-frame building on a stone foundation. It has a slate roof, which needs repairs in several locations and leaks badly over the front door when it rains. The solar and one-quarter of the main hall are paved with large flat flagstones, a project begun under the Clan Morfan. A stack of unused flagstones are piled outside the back of the hall where they have sat since 715TR. The room is dominated by a large central hearth; smoke filters out through a covered opening in the roof directly above the fire pit. The building has not been whitewashed in several years and some of the daub is beginning to flake off.</p>\n<p>The solar was used by Lord Akitt and his guests. The two additional beds and crib date from the previous residents, probably the same time the sheets were last washed. There are outlines in the grime where three chests once stood.</p>",
+        "format": 1
+      },
+      "_id": "gwaMAvUSLnIilGEZ",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!64DcGjkkvPnWNGXf.gwaMAvUSLnIilGEZ"
+    },
+    {
+      "name": "[M9] Palisade and Courtyard",
+      "type": "text",
+      "text": {
+        "content": "<p>When Sir Geleyn first became bailiff of Charmic Manor, there was quite a problem with wolves in the area. A large palisade, built of stout timbers and ten feet tall, was built to provide refuge for the villagers. After almost virtually eliminated the local wolf population, they replaced part of the wall with a low fence. Today fungus and rot have got into the wood and the whole thing could be knocked over with a stout kick.</p>\n<p>Since the arrival of Lord Akitt, several rotten sections of the palisade have collapsed and nothing has been done to repair them. The wolf population has bounced back and now the population no longer has anywhere to seek refuge. Three villagers were killed last winter and the villagers now close up their homes the best they can and huddle together when the wolves are on the hunt.</p>\n<p>The courtyard is a sea of mud and filth. Piles of rotting garbage and manure give it a disgusting reek. Large puddles of standing water mixed with animal urine dot the yard. The contents of the manor chamber pots have just been thrown in the corner of the palisade. The yard of the basest cottar is not this filthy.</p>",
+        "format": 1
+      },
+      "_id": "7kPvY8bfmkFZ394G",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!64DcGjkkvPnWNGXf.7kPvY8bfmkFZ394G"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201019434,
+    "modifiedTime": 1659201019434,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "64DcGjkkvPnWNGXf",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!64DcGjkkvPnWNGXf"
+}

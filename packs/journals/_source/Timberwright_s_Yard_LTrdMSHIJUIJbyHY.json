@@ -1,0 +1,157 @@
+{
+  "name": "Timberwright's Yard",
+  "pages": [
+    {
+      "name": "[T1] Tool Shed",
+      "type": "text",
+      "text": {
+        "content": "<p>This building was used for the storage and maintenance of Lynd’s tools. Axes, saws, chisels and other tools are carefully stored on well built racks on the walls. The floor is packed earth, but is clean and recently swept. Good, dry scrap wood has been stacked in the corner to keep it out of the weather.</p>",
+        "format": 1
+      },
+      "_id": "MirlZTNgCA3HXRlH",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!LTrdMSHIJUIJbyHY.MirlZTNgCA3HXRlH"
+    },
+    {
+      "name": "[T2] Timberwright’s House",
+      "type": "text",
+      "text": {
+        "content": "<p>This fine, comfortable house was the home of Lynd, Lord Akitt’s cousin. He forced the woodcrafter and villagers to help him build it. It is the finest house on the manor. It is tended by Lynd’s former apprentice, Thales, a fine young lad from Gardiren. He was not involved in the pillaging of the manor and was equally badly treated by the two men. He is well liked by the villagers. After Akitt and Lynd fled, he remained and tidied up the house, expecting his master to return. Instead, Sir Peart Tanush, deputy Steward of Earl Curo, and five men-at-arms arrived. Appalled by the state of the manor house, he chose to set up residence here. The deputy Steward is currently taking stock of the manor. Impressed by the young apprentice, he has allowed him to stay on as a domestic until the fate of Charmic is decided.</p>",
+        "format": 1
+      },
+      "_id": "zSoiepXJKJwDXiWB",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!LTrdMSHIJUIJbyHY.zSoiepXJKJwDXiWB"
+    },
+    {
+      "name": "[T3] Drying House",
+      "type": "text",
+      "text": {
+        "content": "<p>This open faced shed is used to season the timber before sale. Most of the wood is in the form of large timbers cut from the heart of the tree. The rounded pieces left from this process are then cut into planks. Every few months, guildsmen would come and take stock of the available timbers and buy what they needed. Sir Peart has impounded this timber in the name of the King.</p>",
+        "format": 1
+      },
+      "_id": "Gd12XpsiWYRh4xFO",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!LTrdMSHIJUIJbyHY.Gd12XpsiWYRh4xFO"
+    },
+    {
+      "name": "[T4] Sawpit",
+      "type": "text",
+      "text": {
+        "content": "<p><span style=\"color:#191813\">The large pit in the middle of the yard is used to cut logs into timbers. Trees are felled in the forest and any branches trimmed off for sale as wattle material or firewood. The logs are then hauled to the yard, where they are stockpiled before being cut into square or rectangular beams for use in timber-frame construction. The process of sawing the logs involves one man in the pit underneath the log hauling down on the saw, while the man on the top hauls the saw back up for the next cut. The man in the pit does most of the cutting action and eats a face full of sawdust. The man on top has to haul the heavy saw up with each stroke. Both are backbreaking jobs. Lynd forced the village men to take turns while he supervised. When they were to slow, he “encouraged” them with a long ox whip. Most of the men in the village and Lynd’s apprentice bear many scars from this whip.</span></p>",
+        "format": 1
+      },
+      "_id": "fVbxRFWcDdQ5ugny",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!LTrdMSHIJUIJbyHY.fVbxRFWcDdQ5ugny"
+    },
+    {
+      "name": "[T5] Sawdust Pile",
+      "type": "text",
+      "text": {
+        "content": "<p><span style=\"color:#191813\">Each day, the sawdust from the pit had to be dug out and piled into this bin. Lynd then sold the sawdust to tanners for the tannic acid. Nothing that could make him a profit was wasted. He even had a monopoly on firewood, forcing the villagers to buy the wood they themselves had felled, cut and piled.</span></p>",
+        "format": 1
+      },
+      "_id": "kULbhirKAmVZTbp2",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!LTrdMSHIJUIJbyHY.kULbhirKAmVZTbp2"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201019473,
+    "modifiedTime": 1659201019473,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "LTrdMSHIJUIJbyHY",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!LTrdMSHIJUIJbyHY"
+}

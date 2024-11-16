@@ -1,0 +1,157 @@
+{
+  "name": "NPCs",
+  "pages": [
+    {
+      "name": "Akitt of Llack",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Occupation: </strong>Bailiff and Master Timberwright</p>\n<p>Noble by birth, with some noble skills (such as literacy), he is essentially a guildsman (timberwright) with delusions of glory. Years of hate and fear have left him gaunt, haggard and looking much older than his twentyseven years of age. He has brown eyes and dark brown hair. Although he tries to project a cheerful demeanour, he is slightly paranoid and cheap with his money. He is well dressed (preferring maroon) but over-accessorized, showing his desperate desire to be accepted as one of the gentle folk. Despite his attempts to fit in, he tends to be shuffled aside in conversations.</p>\n<p><strong>Armor / Weapons:</strong> Cloth tunic, hood and leggings; leather tunic and calf boots; short sword and short bow.</p>",
+        "format": 1
+      },
+      "_id": "mePNMG6eXGQfNl9l",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!dWfSK1y3PVHYRY3v.mePNMG6eXGQfNl9l"
+    },
+    {
+      "name": "Hedin",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Occupation: </strong>Mercenary Medium Foot</p>\n<p>Hedin is a thug and bully.  He is medium height with brown eyes and dirty blond hair. He makes his wishes known but generally follows Kenric’s lead. Hedin likes to hurt people, especially women. He raped several women in the village and enjoys roughing up prostitutes. As long as there is a steady flow of beer and women he is happy anywhere.</p>\n<p><strong>Armor / Weapons:</strong> Leather tunic, leggings and calf boots; plate half-helm and ring hauberk; spear, falchion and round shield.</p>",
+        "format": 1
+      },
+      "_id": "buEHKcJHqNgN3sy3",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!dWfSK1y3PVHYRY3v.buEHKcJHqNgN3sy3"
+    },
+    {
+      "name": "Kenric",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Occupation: </strong>Mercenary Medium Foot</p>\n<p>Kenric is a thug and bully. He is tall with brown eyes and hair. He is the leader of the two mercenaries and makes most of the decisions. His priorities are his own safety, money, women and comfort, in that order.</p>\n<p><strong>Armor / Weapons: </strong>Leather tunic, leggings and calf boots; plate half-helm and ring hauberk; spear, falchion and round shield.</p>",
+        "format": 1
+      },
+      "_id": "iZeDO2hz3fOYdcQ4",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!dWfSK1y3PVHYRY3v.iZeDO2hz3fOYdcQ4"
+    },
+    {
+      "name": "Lynd of Risene",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Ocupation: </strong>Journeyman Timberwright</p>\n<p>The second son of Akitt’s mother’s brother, Lynd has always worked hard and led an active outdoor life. He is extremely fit, looking somewhat younger than his 34 years. His blue eyes are a striking contrast to his jet black hair and make him stand out in a crowd. He is cocky and proud of his body, wearing tight leather pants and a leather jerkin which emphasize his physique. Lynd is a darling with the ladies. Although intelligent, he talks quite slowly, appearing to pause and carefully consider every word. Lynd is definitely more capable than his cousin, but fate granted the manor to Akitt. Lynd stays for the easy money.</p>\n<p><strong>Armor / Weapons:</strong> Cloth tunic, hood and leggings; leather tunic and calf boots; hand axe, two shorkana and round shield.</p>",
+        "format": 1
+      },
+      "_id": "PENnnrm6jm5f7S6h",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!dWfSK1y3PVHYRY3v.PENnnrm6jm5f7S6h"
+    },
+    {
+      "name": "Naviel of Enthia",
+      "type": "text",
+      "text": {
+        "content": "<p><strong>Occupation: </strong>Journeyman Mercantyler</p>\n<p>A broker for the timberwright’s guild, Naviel is a follower. Reasonably intelligent, he hates to make decisions and prefers to defer to others. He is of average size, with a slim build, green eyes and brown hair. He wears good clothes that always seem a little baggy on him as if they were hand-me-downs. Naviel has no tact and bluntly says whatever comes to mind. For the last five years, he has acted as Akitt’s agent, finding buyers for the timber and investing his profits. He has an extensive array of shady and illegal contacts throughout the kingdom. He keeps one penny in seven of Akitt’s ill-gotten gains.</p>\n<p><strong>Armor / Weapons:</strong> Cloth tunic, hood and leggings; leather tunic and calf boots; short sword and dagger.</p>",
+        "format": 1
+      },
+      "_id": "ulQyRk4ecDfwtLC5",
+      "image": {},
+      "video": {
+        "volume": 0.5,
+        "controls": true
+      },
+      "src": null,
+      "sort": 0,
+      "ownership": {
+        "default": -1,
+        "y4rrosWqroRqTLhW": 3
+      },
+      "flags": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "system": {},
+      "_key": "!journal.pages!dWfSK1y3PVHYRY3v.ulQyRk4ecDfwtLC5"
+    }
+  ],
+  "flags": {},
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201019475,
+    "modifiedTime": 1659201019475,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "_id": "dWfSK1y3PVHYRY3v",
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "folder": null,
+  "sort": 0,
+  "_key": "!journal!dWfSK1y3PVHYRY3v"
+}

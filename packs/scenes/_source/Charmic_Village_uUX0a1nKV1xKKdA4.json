@@ -1,0 +1,1869 @@
+{
+  "_id": "uUX0a1nKV1xKKdA4",
+  "name": "Charmic Village",
+  "navigation": false,
+  "navOrder": 0,
+  "navName": "",
+  "foreground": null,
+  "thumb": "worlds/conv/assets/scenes/uUX0a1nKV1xKKdA4-thumb.webp",
+  "width": 3425,
+  "height": 4588,
+  "padding": 0.25,
+  "initial": {},
+  "backgroundColor": "#999999",
+  "grid": {
+    "size": 50,
+    "type": 0,
+    "color": "#000000",
+    "alpha": 0.2,
+    "distance": 25,
+    "units": "ft"
+  },
+  "tokenVision": true,
+  "fogExploration": true,
+  "fogReset": 1658088804857,
+  "globalLight": true,
+  "globalLightThreshold": 0.7,
+  "darkness": 0,
+  "drawings": [],
+  "tokens": [],
+  "lights": [],
+  "notes": [
+    {
+      "_id": "NxVvNLuIrsev3cGn",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1033,
+      "y": 1250,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "B",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/add9baaa_B.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "DrZbZ3qL5jnjN6y3",
+      "text": "[B] Manor Wood Lot",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.NxVvNLuIrsev3cGn"
+    },
+    {
+      "_id": "esqE88blSTCAsdyy",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1521,
+      "y": 1550,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "E",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/796593d_E.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "bKroYqli6OeTBPnw",
+      "text": "[E] Meadowland",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.esqE88blSTCAsdyy"
+    },
+    {
+      "_id": "wHwgAUh9FLSCfJWf",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2686,
+      "y": 1256,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "H",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/18fec9c_H.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "YFIaj59e4Kw9NVV2",
+      "text": "[H] Road to Umbrea Manor",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.wHwgAUh9FLSCfJWf"
+    },
+    {
+      "_id": "OcMQmOPiItRYJfVv",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2853,
+      "y": 1722,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "J",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/21e39912_J.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "AkzQWbOFFhtbLbKN",
+      "text": "[J] Demesne Farm",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.OcMQmOPiItRYJfVv"
+    },
+    {
+      "_id": "k4ZPzSUVZDlYBT3S",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1425,
+      "y": 2599,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "F",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/207d3476_F.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "uHxg3MPyOXSAl6YR",
+      "text": "[F] Bridge",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.k4ZPzSUVZDlYBT3S"
+    },
+    {
+      "_id": "eI2JUiQIU1ThJFK8",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2373,
+      "y": 2930,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "C",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/afe34607_C.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "5AGlvF8JDg5kqlA2",
+      "text": "[C] Village Common",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.eI2JUiQIU1ThJFK8"
+    },
+    {
+      "_id": "5TyU1hMXhlPSdwxZ",
+      "entryId": "eIhDUpwKR47mLyGW",
+      "x": 3414,
+      "y": 4921,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "D",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/f2077640_D.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "zCc9saIZlzfETKaK",
+      "text": "[D] Grove",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.5TyU1hMXhlPSdwxZ"
+    },
+    {
+      "_id": "Z9bztcW1JLHcybZT",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 3559,
+      "y": 5651,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "G",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/1d9a7533_G.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "1dEOpj3PeMR3L8UY",
+      "text": "[G] Track to Zernhol Manor",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.Z9bztcW1JLHcybZT"
+    },
+    {
+      "_id": "5UDsbpJ0ztnm1SG2",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2159,
+      "y": 4155,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "I",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/ca5b5469_I.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "pZ8eeOcFlCglkbj8",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.5UDsbpJ0ztnm1SG2"
+    },
+    {
+      "_id": "UywJxgraFdS69oyC",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2377,
+      "y": 2595,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "A",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/29bf5f81_A.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "3FrBgo6laAaoxCqO",
+      "text": "[A] Manor House",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.UywJxgraFdS69oyC"
+    },
+    {
+      "_id": "gvGSG2tYREIjnnH8",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2043,
+      "y": 3205,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "20",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/6f92adc4_20.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "H2gl1V06LWyYE9lL",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.gvGSG2tYREIjnnH8"
+    },
+    {
+      "_id": "0l8sy9OgZeKOh63t",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2195,
+      "y": 3290,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "32",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/23c7d9af_32.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "wrstErZ7IdTOgcNU",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.0l8sy9OgZeKOh63t"
+    },
+    {
+      "_id": "cEjVasQYLx7A8ksB",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2005,
+      "y": 3352,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "33",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/764b0f40_33.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "yfRbadgPaJhefW5m",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.cEjVasQYLx7A8ksB"
+    },
+    {
+      "_id": "ZwNVn9JV7tjg7OZk",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2189,
+      "y": 3417,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "27",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/b96cc491_27.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "RToFPE0RLRto94EA",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.ZwNVn9JV7tjg7OZk"
+    },
+    {
+      "_id": "FGkVVMoxNCREBsRG",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1999,
+      "y": 3506,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "2",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/7aef8d5a_2.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "xn5csoCgj1USaq8F",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.FGkVVMoxNCREBsRG"
+    },
+    {
+      "_id": "k4SdKYJqykwNtfwT",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2185,
+      "y": 3548,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "17",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/a05d517a_17.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "ohp4TaE4O0p530fT",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.k4SdKYJqykwNtfwT"
+    },
+    {
+      "_id": "hVbK2b7U9GV3MoWe",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1934,
+      "y": 3646,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "4",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/85388270_4.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "phJQM9Jj61YCN4R2",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.hVbK2b7U9GV3MoWe"
+    },
+    {
+      "_id": "8Kd12bnwH7gGw6SD",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1910,
+      "y": 3807,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "5",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/f17e18ad_5.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "BFFP94PZMO4gNNNl",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.8Kd12bnwH7gGw6SD"
+    },
+    {
+      "_id": "5zoMfygTE2N2S7O8",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1929,
+      "y": 3901,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "7",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/b30edda3_7.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "7IQdfg6z5gNUITNO",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.5zoMfygTE2N2S7O8"
+    },
+    {
+      "_id": "J7gnlAUyfWMawNRn",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2137,
+      "y": 3670,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "16",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/cc88b9bd_16.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "KmWuririJNzdkM6K",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.J7gnlAUyfWMawNRn"
+    },
+    {
+      "_id": "9VHd7AdGitkgk97L",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2106,
+      "y": 3830,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "38",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/ed17509_38.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "xSILQSV4tAuWRrAt",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.9VHd7AdGitkgk97L"
+    },
+    {
+      "_id": "JKoGNw2LFqsb7Eqd",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2103,
+      "y": 3943,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "36",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/e28cd5b3_36.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "u9sdZwJ0oQln47OE",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.JKoGNw2LFqsb7Eqd"
+    },
+    {
+      "_id": "WTO68ubpmE0wts8h",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2371,
+      "y": 3523,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "28",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/ab5433bc_28.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "MtDAeS4577sqolDw",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.WTO68ubpmE0wts8h"
+    },
+    {
+      "_id": "9Pa2CNwEkgxOwqhq",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2380,
+      "y": 3707,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "39",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/b0bfc4aa_39.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "3Uz6T1K9UmhWOKvx",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.9Pa2CNwEkgxOwqhq"
+    },
+    {
+      "_id": "Zhnkbtad7CjfWYDQ",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2560,
+      "y": 3723,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "8",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/d1741b8c_8.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "RTkHfMvVONTAzZgg",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.Zhnkbtad7CjfWYDQ"
+    },
+    {
+      "_id": "xdb8j5ChapuvXCfD",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2879,
+      "y": 3334,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "21",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/6476a12f_21.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "ICL8bLf2JoLFkWNW",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.xdb8j5ChapuvXCfD"
+    },
+    {
+      "_id": "UXPWqmOviuWUupij",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2740,
+      "y": 4046,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "24",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/c6e408a8_24.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "YHUdZVGpXiX6RIPG",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.UXPWqmOviuWUupij"
+    },
+    {
+      "_id": "2uxbOFlYooarBkZu",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1897,
+      "y": 4200,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "9",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/60cd6d9_9.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "hYz7q15pI2YJldE8",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.2uxbOFlYooarBkZu"
+    },
+    {
+      "_id": "lfXGBgYEreaQma4Z",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1912,
+      "y": 4339,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "10",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/62e5ec17_10.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "W1vhsiCAC7wbT3NX",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.lfXGBgYEreaQma4Z"
+    },
+    {
+      "_id": "sg6dw37IB9CkG22u",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1898,
+      "y": 4456,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "12",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/902f0409_12.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "6frzhtIyJJVD0h6k",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.sg6dw37IB9CkG22u"
+    },
+    {
+      "_id": "WdJSIbtfg181TxNc",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1895,
+      "y": 4637,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "13",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/a4c0cd76_13.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "FNaxu57dugiwKjTc",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.WdJSIbtfg181TxNc"
+    },
+    {
+      "_id": "BBw71umAG4axvT2o",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1898,
+      "y": 4711,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "14",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/a29abe1b_14.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "bF2bTXDwek4YvSRN",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.BBw71umAG4axvT2o"
+    },
+    {
+      "_id": "Hs5DNOo08tFi8AEi",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1886,
+      "y": 4937,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "19",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/f6b10974_19.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "TqfZEqPiqufsoujh",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.Hs5DNOo08tFi8AEi"
+    },
+    {
+      "_id": "ybqx0KASWdrExJc0",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1756,
+      "y": 5012,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "18",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/a26a4aaf_18.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "4Ln4PYFs06BeJH3U",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.ybqx0KASWdrExJc0"
+    },
+    {
+      "_id": "78Ss8Ud2S5kbPo8j",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1855,
+      "y": 5175,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "15",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/f7a89e40_15.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "L2K8Wuw3K4cStPlA",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.78Ss8Ud2S5kbPo8j"
+    },
+    {
+      "_id": "v0F99P6itao5wlX5",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 1988,
+      "y": 5039,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "11",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/6d608a3c_11.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "1qZ2VLhQh0TvqhKc",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.v0F99P6itao5wlX5"
+    },
+    {
+      "_id": "X1OL8FrGgjTX6nNy",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2156,
+      "y": 5063,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "1",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/91f7bef1_1.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "8bRTPB2XJhjkGQYF",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.X1OL8FrGgjTX6nNy"
+    },
+    {
+      "_id": "tnltOPBIoB6z5C1W",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2321,
+      "y": 5065,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "37",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/b0417544_37.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "MDCuo6GoMO6adTMB",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.tnltOPBIoB6z5C1W"
+    },
+    {
+      "_id": "I4rAldXthPezz4Wi",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2411,
+      "y": 4968,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "22",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/1e923eb2_22.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "pw4bK5Xir4M6N12U",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.I4rAldXthPezz4Wi"
+    },
+    {
+      "_id": "amhKMBSOLMz7y7S4",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2542,
+      "y": 4928,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "23",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/8bd9f23d_23.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "lfCHQMYAmUyOlgc8",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.amhKMBSOLMz7y7S4"
+    },
+    {
+      "_id": "6Rxlh51t6YMqcwTP",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2693,
+      "y": 4912,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "25",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/233b9d33_25.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "L7q6Qlc45zfwEyQP",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.6Rxlh51t6YMqcwTP"
+    },
+    {
+      "_id": "W2x7F3tHH9GrMkta",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2795,
+      "y": 4895,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "26",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/e56f94f6_26.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "hzVo1sbwzPBKOgeX",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.W2x7F3tHH9GrMkta"
+    },
+    {
+      "_id": "9YdfC5XfeQZcCSTj",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 3055,
+      "y": 5003,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "40",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/61ed6186_40.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "apU5voXXpSs3BbQ4",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.9YdfC5XfeQZcCSTj"
+    },
+    {
+      "_id": "yMFWJgDUeKHFOQ7l",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2844,
+      "y": 4698,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "41",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/d4ee99e5_41.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "rZ5KCg5UXQiNwv8T",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.yMFWJgDUeKHFOQ7l"
+    },
+    {
+      "_id": "z0xBOPfc3Ib97oXq",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2653,
+      "y": 4721,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "35",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/261e5c76_35.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "vJMPZUQC9oqxDmYp",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.z0xBOPfc3Ib97oXq"
+    },
+    {
+      "_id": "A4GsflLhFXykKY8u",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2458,
+      "y": 4739,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "29",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/b2c95007_29.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "Z8UYayt8efB11Akg",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.A4GsflLhFXykKY8u"
+    },
+    {
+      "_id": "ETd4KAPuP5dMUy9p",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2265,
+      "y": 4716,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "3",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/b9a898f7_3.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "DQmVvwRE1bVG5C2K",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.ETd4KAPuP5dMUy9p"
+    },
+    {
+      "_id": "67WC1QtHr7ulBpLG",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2067,
+      "y": 4760,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "34",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/159d6165_34.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "4CULYJP2fWGCoHb0",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.67WC1QtHr7ulBpLG"
+    },
+    {
+      "_id": "ZLLNVhlXKCug0lMC",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2109,
+      "y": 4660,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "30",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/78bdfd11_30.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "0JpM6EVWleAUW2Ln",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.ZLLNVhlXKCug0lMC"
+    },
+    {
+      "_id": "8lrbsDrF7JPO0mgV",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2118,
+      "y": 4442,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "6",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/fc9e30e6_6.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "o0gAAUdWgKS8U8t5",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.8lrbsDrF7JPO0mgV"
+    },
+    {
+      "_id": "7QCaqjori0dS6vWR",
+      "entryId": "zhwcK5xXatRfQwrv",
+      "x": 2530,
+      "y": 3532,
+      "iconSize": 38,
+      "fontFamily": "Signika",
+      "fontSize": 48,
+      "textAnchor": 1,
+      "textColor": "#FFFFFF",
+      "flags": {
+        "autoIconFlags": {
+          "autoIcon": true,
+          "iconType": "circle",
+          "fontFamily": "",
+          "strokeWidth": "20",
+          "iconText": "31",
+          "foreColor": "#ff0000ff",
+          "backColor": "#ffff00ff"
+        }
+      },
+      "texture": {
+        "src": "modules/hm-loc-charmic/assets/journal-icon-numbers/5f410632_31.svg",
+        "tint": null,
+        "scaleX": 1,
+        "scaleY": 1,
+        "offsetX": 0,
+        "offsetY": 0,
+        "rotation": 0
+      },
+      "pageId": "IM0gHuTm4ysE91MC",
+      "text": "",
+      "global": false,
+      "_key": "!scenes.notes!uUX0a1nKV1xKKdA4.7QCaqjori0dS6vWR"
+    }
+  ],
+  "sounds": [],
+  "templates": [],
+  "tiles": [],
+  "walls": [],
+  "playlist": null,
+  "playlistSound": null,
+  "journal": null,
+  "weather": "",
+  "flags": {
+    "hm-loc-charmic": {
+      "imported": "1.0.1"
+    },
+    "scene-packer": {
+      "source-module": "hm-loc-charmic",
+      "packed-with-version": "2.3.17",
+      "sourceId": "Scene.GBQDkbRWlcXmFK0e",
+      "hash": "20d89f03cd502b511499dc6ac8fe6d6058398b54"
+    },
+    "core": {
+      "sourceId": "Compendium.hm-loc-charmic.scenes.uUX0a1nKV1xKKdA4"
+    }
+  },
+  "background": {
+    "src": "modules/hm-loc-charmic/assets/scenes/village-map.webp",
+    "offsetX": 42,
+    "offsetY": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "rotation": 0,
+    "tint": null
+  },
+  "foregroundElevation": null,
+  "fogOverlay": null,
+  "fogExploredColor": null,
+  "fogUnexploredColor": null,
+  "_stats": {
+    "systemId": "hm3",
+    "systemVersion": "1.4.0",
+    "coreVersion": "10.276",
+    "createdTime": 1659201031806,
+    "modifiedTime": 1659201031806,
+    "lastModifiedBy": "y4rrosWqroRqTLhW"
+  },
+  "ownership": {
+    "default": 0,
+    "y4rrosWqroRqTLhW": 3
+  },
+  "active": false,
+  "folder": null,
+  "sort": 0,
+  "_key": "!scenes!uUX0a1nKV1xKKdA4"
+}
