@@ -2,7 +2,7 @@
   "id": "hm-loc-charmic",
   "title": "Charmic Manor",
   "description": "A moderate-sized fief in Northern Kaldor of Hârn",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "bugs": "https://github.com/toastygm/hm-loc-charmic/issues",
   "license": "LICENSE",
   "readme": "README.md",
@@ -30,9 +30,19 @@
       }
     ]
   },
+  "packFolders": [
+    {
+      "name": "Charmic Manor",
+      "sorting": "m",
+      "packs": [
+        "scenes",
+        "journals"
+      ]
+    }
+  ],
   "packs": [
     {
-      "label": "Charmic Manor Scenes",
+      "label": "Scenes",
       "name": "scenes",
       "path": "packs/scenes",
       "type": "Scene",
@@ -43,7 +53,7 @@
       }
     },
     {
-      "label": "Charmic Manor Journals",
+      "label": "Journals",
       "name": "journals",
       "path": "packs/journals",
       "type": "JournalEntry",
@@ -56,7 +66,7 @@
   ],
   "url": "https://github.com/toastygm/hm-loc-charmic/",
   "manifest": "https://github.com/toastygm/hm-loc-charmic/releases/latest/download/module.json",
-  "download": "https://github.com/toastygm/hm-loc-charmic/releases/download/v1.3.0/module.zip",
+  "download": "https://github.com/toastygm/hm-loc-charmic/releases/download/v1.3.1/module.zip",
   "flags": {
     "allowBugReporter": true
   }
