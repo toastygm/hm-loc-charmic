@@ -21,7 +21,6 @@ function copyFile(src, dest) {
     copyFileSync(src, dest);
 }
 
-copyFolder("assets/dungeondraft", "build/stage/assets/dungeondraft");
 copyFolder("assets/images", "build/stage/assets/images");
 copyFolder("assets/journal-icon-numbers", "build/stage/assets/journal-icon-numbers");
 copyFolder("assets/scenes", "build/stage/assets/scenes");
